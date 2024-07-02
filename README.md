@@ -3,11 +3,10 @@
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--goETGOXU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/x3x5w638kkixi9s3h3vw.gif" alt="React" width="400" height="200">
 <img align="right" alt="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pallaveekumari&label=Profile%20views&color=0e75b6&style=flat" alt="pallaveekumari" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaynishmehta&label=Profile%20views&color=0e75b6&style=flat" alt="jaynish" /> </p>
 
 
-<br>
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaynishmehta&" alt="jaynishmehta" /></p>
+<p align="left" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaynishmehta&" alt="jaynishmehta" /></p>
 <h4>📈 GitHub Stats</h4>
 <!-- <img src="https://github-readme-stats.vercel.app/api/?username=muskan89&show_icons=true&theme=gotham" alt="github stats"/> -->
 
