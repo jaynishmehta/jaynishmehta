@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi sristy how its going.. 👋
 <p>- 🌱 I’m currently learning </p>
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--goETGOXU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/x3x5w638kkixi9s3h3vw.gif" alt="React" width="400" height="200">
 <img align="right" alt="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" />
